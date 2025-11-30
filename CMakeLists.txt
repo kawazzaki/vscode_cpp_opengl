@@ -19,6 +19,7 @@ add_executable(demo
     src/EBO.cpp
     src/VAO.cpp
     src/VBO.cpp    
+    src/stb.cpp
 )
 
 target_link_libraries(demo

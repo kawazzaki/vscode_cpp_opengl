@@ -34,5 +34,11 @@
   "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL -IC:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/include -g -std=gnu++17 -o CMakeFiles\\demo.dir\\src\\VBO.cpp.obj -c C:\\Users\\ROG\\Desktop\\openGl\\vscode_cpp_opengl\\src\\VBO.cpp",
   "file": "C:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/src/VBO.cpp",
   "output": "C:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/build/CMakeFiles/demo.dir/src/VBO.cpp.obj"
+},
+{
+  "directory": "C:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL -IC:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/include -g -std=gnu++17 -o CMakeFiles\\demo.dir\\src\\stb.cpp.obj -c C:\\Users\\ROG\\Desktop\\openGl\\vscode_cpp_opengl\\src\\stb.cpp",
+  "file": "C:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/src/stb.cpp",
+  "output": "C:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/build/CMakeFiles/demo.dir/src/stb.cpp.obj"
 }
 ]
