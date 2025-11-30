@@ -20,6 +20,7 @@ add_executable(demo
     src/VAO.cpp
     src/VBO.cpp    
     src/stb.cpp
+    src/texture.cpp
 )
 
 target_link_libraries(demo

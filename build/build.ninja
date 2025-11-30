@@ -119,6 +119,16 @@ build CMakeFiles/demo.dir/src/stb.cpp.obj: CXX_COMPILER__demo_unscanned_Debug C$
   OBJECT_FILE_DIR = CMakeFiles\demo.dir\src
   TARGET_SUPPORT_DIR = CMakeFiles\demo.dir
 
+build CMakeFiles/demo.dir/src/texture.cpp.obj: CXX_COMPILER__demo_unscanned_Debug C$:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/src/texture.cpp || cmake_object_order_depends_target_demo
+  CONFIG = Debug
+  DEFINES = -DGLFW_DLL
+  DEP_FILE = CMakeFiles\demo.dir\src\texture.cpp.obj.d
+  FLAGS = -g -std=gnu++17
+  INCLUDES = -IC:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/include
+  OBJECT_DIR = CMakeFiles\demo.dir
+  OBJECT_FILE_DIR = CMakeFiles\demo.dir\src
+  TARGET_SUPPORT_DIR = CMakeFiles\demo.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target demo
@@ -127,7 +137,7 @@ build CMakeFiles/demo.dir/src/stb.cpp.obj: CXX_COMPILER__demo_unscanned_Debug C$
 #############################################
 # Link the executable demo.exe
 
-build demo.exe: CXX_EXECUTABLE_LINKER__demo_Debug CMakeFiles/demo.dir/src/main.cpp.obj CMakeFiles/demo.dir/src/glad.c.obj CMakeFiles/demo.dir/src/shader.cpp.obj CMakeFiles/demo.dir/src/EBO.cpp.obj CMakeFiles/demo.dir/src/VAO.cpp.obj CMakeFiles/demo.dir/src/VBO.cpp.obj CMakeFiles/demo.dir/src/stb.cpp.obj | C$:/msys64/mingw64/lib/libglfw3.dll.a
+build demo.exe: CXX_EXECUTABLE_LINKER__demo_Debug CMakeFiles/demo.dir/src/main.cpp.obj CMakeFiles/demo.dir/src/glad.c.obj CMakeFiles/demo.dir/src/shader.cpp.obj CMakeFiles/demo.dir/src/EBO.cpp.obj CMakeFiles/demo.dir/src/VAO.cpp.obj CMakeFiles/demo.dir/src/VBO.cpp.obj CMakeFiles/demo.dir/src/stb.cpp.obj CMakeFiles/demo.dir/src/texture.cpp.obj | C$:/msys64/mingw64/lib/libglfw3.dll.a
   CONFIG = Debug
   FLAGS = -g
   LINK_LIBRARIES = C:/msys64/mingw64/lib/libglfw3.dll.a  -lopengl32  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
