@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL -IC:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/include -g -std=gnu++17 -o CMakeFiles\\demo.dir\\src\\main.cpp.obj -c C:\\Users\\ROG\\Desktop\\openGl\\vscode_cpp_opengl\\src\\main.cpp",
+  "file": "C:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/src/main.cpp",
+  "output": "C:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/build/CMakeFiles/demo.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DGLFW_DLL -IC:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/include -g -o CMakeFiles\\demo.dir\\src\\glad.c.obj -c C:\\Users\\ROG\\Desktop\\openGl\\vscode_cpp_opengl\\src\\glad.c",
+  "file": "C:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/src/glad.c",
+  "output": "C:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/build/CMakeFiles/demo.dir/src/glad.c.obj"
+},
+{
+  "directory": "C:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL -IC:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/include -g -std=gnu++17 -o CMakeFiles\\demo.dir\\src\\shader.cpp.obj -c C:\\Users\\ROG\\Desktop\\openGl\\vscode_cpp_opengl\\src\\shader.cpp",
+  "file": "C:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/src/shader.cpp",
+  "output": "C:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/build/CMakeFiles/demo.dir/src/shader.cpp.obj"
+},
+{
+  "directory": "C:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL -IC:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/include -g -std=gnu++17 -o CMakeFiles\\demo.dir\\src\\EBO.cpp.obj -c C:\\Users\\ROG\\Desktop\\openGl\\vscode_cpp_opengl\\src\\EBO.cpp",
+  "file": "C:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/src/EBO.cpp",
+  "output": "C:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/build/CMakeFiles/demo.dir/src/EBO.cpp.obj"
+},
+{
+  "directory": "C:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL -IC:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/include -g -std=gnu++17 -o CMakeFiles\\demo.dir\\src\\VAO.cpp.obj -c C:\\Users\\ROG\\Desktop\\openGl\\vscode_cpp_opengl\\src\\VAO.cpp",
+  "file": "C:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/src/VAO.cpp",
+  "output": "C:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/build/CMakeFiles/demo.dir/src/VAO.cpp.obj"
+},
+{
+  "directory": "C:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL -IC:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/include -g -std=gnu++17 -o CMakeFiles\\demo.dir\\src\\VBO.cpp.obj -c C:\\Users\\ROG\\Desktop\\openGl\\vscode_cpp_opengl\\src\\VBO.cpp",
+  "file": "C:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/src/VBO.cpp",
+  "output": "C:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/build/CMakeFiles/demo.dir/src/VBO.cpp.obj"
+}
+]
