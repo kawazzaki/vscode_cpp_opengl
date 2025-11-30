@@ -2,7 +2,9 @@
 9	57	7861701513857055	CMakeFiles/demo.dir/src/EBO.cpp.obj	f08c8a545d239c6
 11	58	7861701513869390	CMakeFiles/demo.dir/src/VAO.cpp.obj	bd3ed4d491541ba7
 14	61	7861701513902119	CMakeFiles/demo.dir/src/VBO.cpp.obj	29988a6608a05dbd
-3	222	7861701513783704	CMakeFiles/demo.dir/src/main.cpp.obj	ca3bd4c897d074b7
+22	245	7861705792052850	CMakeFiles/demo.dir/src/main.cpp.obj	ca3bd4c897d074b7
 7	248	7861701513831613	CMakeFiles/demo.dir/src/shader.cpp.obj	7e12f1a3f00e779e
 5	508	7861701513806638	CMakeFiles/demo.dir/src/glad.c.obj	47d330efd7d42e96
-509	576	7861701518842913	demo.exe	b5ac88c66cb335dc
+245	330	7861705794288760	demo.exe	b5ac88c66cb335dc
+20	261	7861706466135467	CMakeFiles/demo.dir/src/shader.cpp.obj	7e12f1a3f00e779e
+262	328	7861706468556954	demo.exe	b5ac88c66cb335dc

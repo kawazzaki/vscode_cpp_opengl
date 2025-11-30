@@ -68,7 +68,7 @@ int main()
     //glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, 0);
 
 
-    Shader shaderProgram("C:/Users/ROG/Desktop/openGl/demo/build/shaders/default.vert","C:/Users/ROG/Desktop/openGl/demo/build/shaders/default.frag");
+    Shader shaderProgram("C:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/build/shaders/default.vert","C:/Users/ROG/Desktop/openGl/vscode_cpp_opengl/build/shaders/default.frag");
     VAO VAO1;
     VAO1.Bind();
 
